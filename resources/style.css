@@ -10,3 +10,21 @@ h1 {
   font-size: 16px;
   text-align: center;
 }
+p {
+  text-align: center;
+}
+#copyright {
+  text-align: right;
+  color: gray;
+  font-family: Verdana;
+}
+body {
+  background-color: black;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  font-family: Verdana;
+  color: white;
+  text-align: center;
+}
