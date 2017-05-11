@@ -12,6 +12,9 @@ h1 {
 }
 p {
   text-align: center;
+  color: gray;
+  font-family: Verdana;
+
 }
 #copyright {
   text-align: right;
